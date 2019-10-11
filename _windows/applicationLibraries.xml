@@ -1,0 +1,32 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/express" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/flowjs" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/lodash" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/lodash-es" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-router-dom" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/redux-form" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="R Skeletons">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>

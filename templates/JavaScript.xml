@@ -1,0 +1,19 @@
+<templateSet group="JavaScript">
+  <template name="loggreen" value="console.log(`%c ${$VAR$}`, 'color: green');" description="defines green log" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="debug" value="// todo: debugger! remove after tests&#10;debugger; // eslint-disable-line" description="debugger with elsint disabled and todo" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CoffeeScript" value="true" />
+      <option name="DART" value="true" />
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
