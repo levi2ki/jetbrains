@@ -3,7 +3,7 @@
     <property name="created">2019-09-29T22:01:59</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-11-02T15:56:40</property>
+    <property name="modified">2019-11-20T15:02:24</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -16,6 +16,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="727272" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
