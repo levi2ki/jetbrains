@@ -7,7 +7,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="debug" value="// todo: debugger! remove after tests&#10;debugger; // eslint-disable-line" description="debugger with elsint disabled and todo" toReformat="false" toShortenFQNames="true">
+  <template name="debug" value="// todo: debugger! remove after tests&#10;// tslint:disable-next-line:no-debugger&#10;debugger; // eslint-disable-line" description="debugger with elsint disabled and todo" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CoffeeScript" value="true" />
       <option name="DART" value="true" />
