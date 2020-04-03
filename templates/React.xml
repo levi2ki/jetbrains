@@ -209,4 +209,10 @@
   <template name="cwun" value="componentWillUnmount() {&#10;    $END$&#10;}&#10;" description="Invoked immediately before a component is unmounted from the DOM." toReformat="true" toShortenFQNames="true">
     <context />
   </template>
+  <template name="fscts" value="import * as React from 'react';&#10;&#10;export interface I$TM_FILENAME_BASE$Props = {&#10; $END$&#10;};&#10;&#10;export const $TM_FILENAME_BASE$: React.FC&lt;I$TM_FILENAME_BASE$Props&gt; = (props) =&gt; {&#10; return (&#10;  &lt;div&gt;&#10;   &#10;  &lt;/div&gt;&#10; );&#10;};" description="functional compontent typescript" toReformat="false" toShortenFQNames="true">
+    <variable name="TM_FILENAME_BASE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
