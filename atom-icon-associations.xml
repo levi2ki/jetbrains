@@ -1,0 +1,16 @@
+<application>
+  <component name="Atom Icon Associations Config">
+    <option name="customFileAssociations">
+      <CustomAssociations>
+        <option name="customAssociations">
+          <RegexAssociation>
+            <option name="matcher" value=".*([dD])ucks?\.(ts|js)$" />
+            <option name="pattern" value=".*([dD])ucks?\.(ts|js)$" />
+            <option name="name" value="ducks" />
+            <option name="icon" value="/icons/files/redux-store.svg" />
+          </RegexAssociation>
+        </option>
+      </CustomAssociations>
+    </option>
+  </component>
+</application>
