@@ -215,4 +215,15 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="story" value="import React from 'react';&#10;&#10;// also exported from '@storybook/react' if you can deal with breaking changes in 6.1&#10;import { Meta, Story } from '@storybook/react';&#10;&#10;export default {&#10;  title: $TITLE$,&#10;  component: $COMPONENT$,&#10;} as Meta;&#10;&#10;const Template: Story&lt;$COMPONENTPROPS$&gt; = (args) =&gt; (&#10;  &lt;$COMPONENT$ {...args} /&gt;&#10;);&#10;$END$" description="story story" toReformat="true" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COMPONENTPROPS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_CLASS" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+    </context>
+  </template>
 </templateSet>
