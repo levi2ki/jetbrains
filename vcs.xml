@@ -18,9 +18,13 @@
           <option name="url" value="https://makarovas@bitbucket.org/gpbrkk2/ui.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.gitlab.bcs.ru:bcs-cc/icc/ci-templates.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\andrey.makarov\WebstormProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/proj" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
