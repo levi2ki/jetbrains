@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="muistyles" value="const use$WHAT$Styles = makeStyles((_theme) =&gt; createStyles({&#10;  root: {},&#10;}), { name: $NAME$ });" description="create mui styleshook" toReformat="false" toShortenFQNames="true">
+    <variable name="WHAT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
